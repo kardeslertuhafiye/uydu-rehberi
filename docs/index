@@ -1,0 +1,38 @@
+Kanallar Kayboldu: Türksat
+Destek sayfası
+
+16 Ağustos 2026 gecesi Türksat 3A uydusu emekliye ayrıldı. Yayınlar aynı yörünge konumundaki (42° Doğu) uydulara taşındı. Çanağınızı çevirmenize gerek yok — sadece kanal listesini yenilemeniz gerekiyor.
+Sık sorulanlar
+Çanağı yeniden ayarlamam gerekiyor mu?
+Hayır. Yeni uydular aynı yörünge konumunda (42° Doğu). Anten yönü ve LNB ayarı değişmiyor.
+
+Televizyonum kendi güncelledi, uygulamaya gerek var mı?
+Yoksa yok. TKGS destekli televizyonlarda kanal listesi kendiliğinden yenilenir. Uygulama, yenilenmeyen cihazlar için.
+
+Adımlardaki menü isimleri televizyonumdakiyle aynı değil
+Marka ve model arasında menü adları değişebiliyor. Uygulama bunu size uyarı bandıyla söyler. Genel mantık aynıdır: Menü → Kurulum veya Kanal → Uydu ayarları.
+
+Kanallar hâlâ gelmedi
+Uygulamadaki ikinci frekansı deneyin. O da olmazsa sorun büyük ihtimalle ayarda değil bağlantıdadır: anten kablosunun sıkılığını ve sinyal gücünü kontrol edin. Fırtınadan sonra çanak yerinden oynamış olabilir.
+
+Avrupa'dayım, hangi frekansı kullanmalıyım?
+Uygulamada açılış ekranından Avrupa'yı seçin. Avrupa'daki alıcılar Batı kapsama alanını görür; Türkiye için yayınlanan yedek frekans Avrupa'da sinyal vermez. Uygulama bu ayrımı otomatik yapar.
+
+Şebeke arama frekansları
+Türkiye
+Bölge	Frekans	Pol.	Sembol	FEC
+Batı	12380	V	27500	3/4
+Doğu	12423	H	30000	3/4
+Avrupa (Batı kapsama alanı)
+Frekans	Pol.	Sembol	FEC
+Ana	12380	V	27500	3/4
+Yedek	12423	V	27500	3/4
+Kaynak: Türksat resmi frekans listesi. Kanal bazında frekanslar paket ve bölgeye göre değişebilir.
+
+İletişim
+[AD SOYAD]
+[E-POSTA ADRESİ]
+
+Gizlilik politikası · Impressum
+
+Bu uygulama bağımsız bir yardımcıdır ve Türksat A.Ş. ile bağlantılı değildir. Türksat, Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.'ye ait bir markadır.
